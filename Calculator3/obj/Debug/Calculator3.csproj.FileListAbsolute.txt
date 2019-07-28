@@ -1,0 +1,9 @@
+c:\users\safaj\documents\visual studio 2015\Projects\Calculator3\Calculator3\bin\Debug\Calculator3.exe.config
+c:\users\safaj\documents\visual studio 2015\Projects\Calculator3\Calculator3\bin\Debug\Calculator3.exe
+c:\users\safaj\documents\visual studio 2015\Projects\Calculator3\Calculator3\bin\Debug\Calculator3.pdb
+c:\users\safaj\documents\visual studio 2015\Projects\Calculator3\Calculator3\obj\Debug\Calculator3.Form1.resources
+c:\users\safaj\documents\visual studio 2015\Projects\Calculator3\Calculator3\obj\Debug\Calculator3.Properties.Resources.resources
+c:\users\safaj\documents\visual studio 2015\Projects\Calculator3\Calculator3\obj\Debug\Calculator3.csproj.GenerateResource.Cache
+c:\users\safaj\documents\visual studio 2015\Projects\Calculator3\Calculator3\obj\Debug\Calculator3.exe
+c:\users\safaj\documents\visual studio 2015\Projects\Calculator3\Calculator3\obj\Debug\Calculator3.pdb
+C:\Users\safaj\documents\visual studio 2015\Projects\Calculator3\Calculator3\obj\Debug\Calculator3.csprojResolveAssemblyReference.cache
